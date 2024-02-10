@@ -1,2 +1,2 @@
 # PiggyBank
-PiggyBank is wannabe bank
+PiggyBank is a wannabe bank
